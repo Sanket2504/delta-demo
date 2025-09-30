@@ -1,7 +1,7 @@
 # delta-demo
 This is a Demo for Git &amp; Github class.
  # teacher
- sanket meshram
+ sanket meshram.
 
  # student 
  delta student
